@@ -18,7 +18,7 @@ TongGu-VL-2B-Instruct will be publicly available as soon as possible.
 
 ## Data
 
-**ACCN-INS**: 358K classical Chinese instruction data, covering 24 estimated tasks across three dimensions of ancient text understanding, generation, and knowledge.
+**ACCN-INS**: 358,000 multimodal fine-tuning data samples from ancient texts, covering tasks such as ancient text recognition, reading comprehension, and classical Chinese translation.
 
 The CCS358K dataset can only be used for non-commercial research purposes. For scholar or organization who wants to use the MSDS dataset, please first fill in this [Application Form](./application-form/Application-Form-for-Using-CCS358K.docx) and email them to us. When submitting the application form to us, please list or attached 1-2 of your publications in the recent 6 years to indicate that you (or your team) do research in the related research fields of classical Chinese.
 We will give you the download link and the decompression password after your application has been received and approved.
