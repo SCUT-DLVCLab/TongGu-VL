@@ -32,6 +32,8 @@ All users must follow all use conditions; otherwise, the authorization will be r
 # Inference
 
 ```python
+# transformers == 4.48.2
+
 import torch
 from transformers import AutoProcessor
 from transformers import AutoModelForCausalLM
