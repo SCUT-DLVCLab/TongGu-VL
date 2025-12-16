@@ -12,10 +12,6 @@ Tonggu is a classical Chinese LLM developed by the Deep Learning and Visual Comp
 
 # Open-source List
 
-## Model
-
-TongGu-VL-2B-Instruct will be publicly available as soon as possible.
-
 ## Data
 
 **ACCN-INS**: 358,000 multimodal fine-tuning data samples from ancient texts, covering tasks such as ancient text recognition, reading comprehension, and classical Chinese translation.
