@@ -33,6 +33,8 @@ CCS358K数据集只能用于非商业研究目的。对于想要使用CCS358K数
 # 推理
 
 ```python
+# transformers == 4.48.2
+
 import torch
 from transformers import AutoProcessor
 from transformers import AutoModelForCausalLM
